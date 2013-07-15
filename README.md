@@ -18,4 +18,4 @@ Tiny-Tiny-RSS-plugins
 ---------
 Tiny-Tiny-RSS-plugins в действии:
 
-![EditPlus-PhpStorm-theme](https://raw.github.com/mihdan/Tiny-Tiny-RSS-plugins/master/images/screenshot.png)
+![Tiny-Tiny-RSS-plugins](https://raw.github.com/mihdan/Tiny-Tiny-RSS-plugins/master/images/screenshot.png)
