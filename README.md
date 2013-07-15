@@ -1,6 +1,6 @@
 Tiny-Tiny-RSS-plugins
 =====================
-Моя подборка плагинов для Tiny Tiny RSS (https://github.com/mihdan/Tiny-Tiny-RSS)
+Моя подборка плагинов для [Tiny Tiny RSS](https://github.com/mihdan/Tiny-Tiny-RSS)
 
 Установка
 ---------
